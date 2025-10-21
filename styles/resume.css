@@ -17,6 +17,7 @@ align-items: center;
 .resume-body{
     display: flex;
     justify-content: space-between;
+    
 }
 .resume-title{
     display: flex;
@@ -52,6 +53,7 @@ text-align: left;
 }
 .my-education{
     margin-bottom: 30px;
+    margin-right: 50px;
 }
 
 .my-education>h3 {
@@ -125,12 +127,7 @@ border: none;
 cursor: pointer;
 }
 
-.line{
-    /* Line 1 */
-width: 558px;
-height: 0;
-border: 1px solid var(--Dark 05, rgba(209, 209, 209, 1));
-}
+
 
 #button{
 margin-top: 50px;
