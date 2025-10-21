@@ -94,4 +94,17 @@ margin-left:117px ;
     color: black;
     transition-duration: 0.5s;
 }
+.name::placeholder{
+    /* Your name */
+width: 82px;
+height: 28px;
+color: rgba(117, 117, 117, 1);
+
+font-family: Open Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0%;
+text-align: right;
+}
 
